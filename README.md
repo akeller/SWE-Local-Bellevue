@@ -10,7 +10,7 @@ Pizza Ordering Chatbot - [ibm.biz/pizzachatbot](http://ibm.biz/pizzachatbot)
 
 Cognitive Banking Chatbot - [ibm.biz/bankingchatbot](http://ibm.biz/bankingchatbot)
 
-Bot Asset Exchange - [developer.ibm.com/code/exchanges/bots/](https://www.developer.ibm.com/code/exchangs/bots/)
+Bot Asset Exchange - [developer.ibm.com/code/exchanges/bots/](https://developer.ibm.com/code/exchanges/bots/)
 
 Code and Response - [developer.ibm.com/code-and-response](https://www.developer.ibm.com/code-and-response)
 
