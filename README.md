@@ -8,7 +8,7 @@ IBM Cloud (free account! no credit card needed!) - [ibm.biz/SWELocal19 ](http://
 
 Pizza Ordering Chatbot - [ibm.biz/pizzachatbot](http://ibm.biz/pizzachatbot)
 
-Cognitive Banking Chatbot - [ibm.biz/bankingchatbot](http://ibm.boz/bankingchatbot)
+Cognitive Banking Chatbot - [ibm.biz/bankingchatbot](http://ibm.biz/bankingchatbot)
 
 Bot Asset Exchange - [developer.ibm.com/code/exchanges/bots/](https://www.developer.ibm.com/code/exchangs/bots/)
 
