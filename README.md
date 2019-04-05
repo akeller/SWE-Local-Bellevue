@@ -1,9 +1,10 @@
-# SWE-Local-Bellevue
-Presentation w/ links to SWE Local Bellevue 19 Chatbot talk!
+# How to Build a Chatbot
+
+Thanks for coming to my talk! For more information, checkout the links below! If there are any questions I was unable to answer, please submit an issue on this repo or tweet [@MissAmaraKay](https://twitter.com/MissAmaraKay). My DMs are open if you prefer a more private interaction.
 
 ## Links
 
-IBM Cloud 
+IBM Cloud (free account! no credit card needed!)
 ibm.biz/SWELocal19 
 
 Pizza Ordering Chatbot
@@ -14,7 +15,6 @@ ibm.biz/bankingchatbot
 
 Bot Asset Exchange
 developer.ibm.com/code/exchanges/bots/ 
-
 
 Code and Response
 developer.ibm.com/code-and-response
