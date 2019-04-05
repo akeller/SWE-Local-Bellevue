@@ -4,8 +4,7 @@ Thanks for coming to my talk! For more information, checkout the links below! If
 
 ## Links
 
-IBM Cloud (free account! no credit card needed!)
-ibm.biz/SWELocal19 
+IBM Cloud (free account! no credit card needed!) - [ibm.biz/SWELocal19 ](ibm.biz/SWELocal19)
 
 Pizza Ordering Chatbot
 ibm.biz/pizzachatbot
