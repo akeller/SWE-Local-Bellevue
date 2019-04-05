@@ -4,20 +4,15 @@ Thanks for coming to my talk! For more information, checkout the links below! If
 
 ## Links
 
-IBM Cloud (free account! no credit card needed!) - [ibm.biz/SWELocal19 ](ibm.biz/SWELocal19)
+IBM Cloud (free account! no credit card needed!) - [ibm.biz/SWELocal19 ](http://ibm.biz/SWELocal19) 
 
-Pizza Ordering Chatbot
-ibm.biz/pizzachatbot
+Pizza Ordering Chatbot - [ibm.biz/pizzachatbot](http://ibm.biz/pizzachatbot)
 
-Cognitive Banking Chatbot
-ibm.biz/bankingchatbot
+Cognitive Banking Chatbot - [ibm.biz/bankingchatbot](http://ibm.boz/bankingchatbot)
 
-Bot Asset Exchange
-developer.ibm.com/code/exchanges/bots/ 
+Bot Asset Exchange - [developer.ibm.com/code/exchanges/bots/](https://www.developer.ibm.com/code/exchangs/bots/)
 
-Code and Response
-developer.ibm.com/code-and-response
+Code and Response - [developer.ibm.com/code-and-response](https://www.developer.ibm.com/code-and-response)
 
-Call for Code
-developer.ibm.com/callforcode
+Call for Code - [developer.ibm.com/callforcode](https://www.developer.ibm.com/callforcode)
 
